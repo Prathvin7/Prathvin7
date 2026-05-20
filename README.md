@@ -34,9 +34,48 @@
 
 # 🛠️ Tech Stack
 
+## 💻 Programming Languages
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,react,nodejs,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript" />
 </p>
+
+---
+
+## 🌐 Web Development
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+</p>
+
+---
+
+## 🗄️ Database Technologies
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+---
+
+## ⚙️ Tools & Platforms
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 🔐 Cybersecurity & Networking
+- Ethical Hacking Basics
+- Vulnerability Assessment
+- Network Scanning
+- Threat Detection Concepts
+- Endpoint Security Concepts
+
+---
+
+## 🤖 AI & Automation Interests
+- Offline AI Applications
+- AI Assistants
+- Automation Tools
+- Intelligent Security Systems
 
 ---
 
